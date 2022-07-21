@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">I'm Passionated Fullstack web Developer & Software Engineer</h3>
-<img align="center" alt="stage gif" width="500" src="https://animesher.com/orig/1/147/1478/14788/animesher.com_gif-ichigo-bleach-1478846.gif" />
+<p align="center">
+  <img alt="stage-gif" width="700" src="https://i.imgur.com/TBMcmnU.gif" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadown125&label=Profile%20views&color=0e75b6&style=flat" alt="shadown125" /> </p>
 
