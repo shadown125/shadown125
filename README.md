@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">I'm Passionated Fullstack web Developer & Software Engineer</h3>
+<h3 align="center">I'm Fullstack Web Developer & Software Engineer</h3>
 <p align="center">
   <img alt="stage-gif" width="700" src="https://i.imgur.com/TBMcmnU.gif" />
 </p>
