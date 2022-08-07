@@ -6,8 +6,12 @@
 
 <div align="center">
   <a href="https://github.com/shadown125">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadown125&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadown125&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadown125&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadown125&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shadown125&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Sidwebworks | Stats"/>
 </div>
 
 <div style="display: inline_block"><br>
