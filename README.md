@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">Fullstack Web Developer & Software Engineer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 <p align="center">
   <img alt="stage-gif" width="700" src="https://i.imgur.com/TBMcmnU.gif" />
 </p>
@@ -35,9 +35,5 @@
   ##
   
 <div> 
-  <a href = "mailto:dawidoleksiuk7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dawid-oleksiuk-2478311a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/dawidoleksiuk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  
    ![Snake animation](https://github.com/shadown125/shadown125/blob/output/github-contribution-grid-snake.svg)
 </div>
